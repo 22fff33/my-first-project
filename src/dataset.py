@@ -1,7 +1,6 @@
 """Dataset loader for four-channel far-field intensity/phase pairs."""
 
 from pathlib import Path
-
 import h5py
 import numpy as np
 import torch
